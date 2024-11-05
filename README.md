@@ -7,11 +7,17 @@ Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer cons
 - 💡 I love diving into **UI/UX design** and enjoy customizing my apps to make them visually appealing and user-friendly.
 
 ### 🛠️ Technologies I'm familiar with:
-- **Frontend:** Flutter
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Other Tools:** Git, Android Studio, WebStorm
+- **Frontend:**  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
+- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white),![express.js](https://img.shields.io/badge/express.js-%23339933.svg?logo=node.js&logoColor=white)
+- **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
+- **Other Tools:**  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white), Android Studio, WebStorm
 - **Languages:** C, C++, Java, Kotlin, JavaScript, Dart
+
+
+
+
+
+  
 
 ### What I’m Working On:
 - 📱 Developing apps with Flutter for personal and professional use.
