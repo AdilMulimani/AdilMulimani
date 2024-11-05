@@ -13,18 +13,12 @@ Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer cons
 - **Other Tools:**  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white), Android Studio, WebStorm
 - **Languages:** C, C++, Java, Kotlin, JavaScript, Dart
 
-
-
-
-
-  
-
 ### What I’m Working On:
 - 📱 Developing apps with Flutter for personal and professional use.
 - 📊 Building robust backends with Node.js and MongoDB.
 
 ### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdilMulimani&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdilMulimani&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdilMulimani&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
