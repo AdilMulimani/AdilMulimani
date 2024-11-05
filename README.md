@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **[Adil Mulimain]**, a passionate developer constantly exploring new technologies and building impactful projects. Here’s a bit about me:
+Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer constantly exploring new technologies and building impactful projects. Here’s a bit about me:
 
 - 🌱 I’m currently learning **Flutter** and **Dart** development to create beautiful, cross-platform applications.
 - 💼 I'm skilled in backend technologies like **Node.js** and databases like **MongoDB**.
