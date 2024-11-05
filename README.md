@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **[Your Name]**, a passionate developer constantly exploring new technologies and building impactful projects. Here’s a bit about me:
+Welcome to my GitHub profile! I'm **[Adil Mulimain]**, a passionate developer constantly exploring new technologies and building impactful projects. Here’s a bit about me:
 
 - 🌱 I’m currently learning **Flutter** and **Dart** development to create beautiful, cross-platform applications.
 - 💼 I'm skilled in backend technologies like **Node.js** and databases like **MongoDB**.
@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm **[Your Name]**, a passionate developer consta
 ### 🛠️ Technologies I'm familiar with:
 - **Frontend:** Flutter
 - **Backend:** Node.js, Express
-- **Database:** MongoDB, MinIO
-- **Other Tools:** Git, Android Studio
+- **Database:** MongoDB
+- **Other Tools:** Git, Android Studio ,WebStorm
+- **Languages**:C, C++, Java, Kotlin, Javascript, Dart
 
 ### What I’m Working On:
 - 📱 Developing apps with Flutter for personal and professional use.
