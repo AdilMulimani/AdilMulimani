@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer constantly exploring new technologies and building impactful projects. Here’s a bit about me:
 
-- 🌱 I’m currently learning **Flutter** and **Dart** development to create beautiful, cross-platform applications.
+- 🌱 I’m currently learning **Flutter** development to create beautiful, cross-platform applications.
 - 💼 I'm skilled in backend technologies like **Node.js** and databases like **MongoDB**.
 - 💡 I love diving into **UI/UX design** and enjoy customizing my apps to make them visually appealing and user-friendly.
 
