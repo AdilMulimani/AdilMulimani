@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Welcome! 👋
 
 Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer constantly exploring new technologies and building impactful projects. Here’s a bit about me:
 
@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer cons
 - **Frontend:** Flutter
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **Other Tools:** Git, Android Studio ,WebStorm
-- **Languages**:C, C++, Java, Kotlin, Javascript, Dart
+- **Other Tools:** Git, Android Studio, WebStorm
+- **Languages:** C, C++, Java, Kotlin, JavaScript, Dart
 
 ### What I’m Working On:
 - 📱 Developing apps with Flutter for personal and professional use.
@@ -20,8 +20,13 @@ Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer cons
 ### GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AdilMulimani&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdilMulimani&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Get in Touch!
-- 📫 Reach me at: [your.email@example.com](mailto:adilmulimani@gmail.com)
-- 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/adil-m-21736626a/))
+- 📫 Reach me at: [adilmulimani@gmail.com](mailto:adilmulimani@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/adil-m-21736626a/)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AdilMulimani&color=blue)
 
 Thanks for visiting my profile, and feel free to reach out or explore my repositories!
