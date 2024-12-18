@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer cons
 - 📊 Building robust backends with Node.js and MongoDB.
 
 ### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdilMulimani&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdilMulimani&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdilMulimani&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
