@@ -1,37 +1,25 @@
-# Welcome! 👋
+# Welcome!
 
 Welcome to my GitHub profile! I'm **Adil Mulimani**, a passionate developer constantly exploring new technologies and building impactful projects. Here’s a bit about me:
 
-- 🌱 I’m currently learning **Flutter** development to create beautiful, cross-platform applications.
-- 💼 I'm skilled in backend technologies like **Node.js** and databases like **MongoDB**.
-- 💡 I love diving into **UI/UX design** and enjoy customizing my apps to make them visually appealing and user-friendly.
+- I’m currently learning **Flutter** development to create beautiful, cross-platform applications.
+- I'm skilled in backend technologies like **Node.js** and databases like **MongoDB** and **MySQL**.
+- I love diving into **UI/UX design** and enjoy customizing my apps to make them visually appealing and user-friendly.
 
-### 🛠️ Technologies I'm familiar with:
+### Technologies I'm familiar with:
 - **Frontend:**  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
 - **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white), ![Express.js](https://img.shields.io/badge/Express.js-%23339933.svg?logo=node.js&logoColor=white)
-- **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-- **Other Tools:**  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white), ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?logo=android-studio&logoColor=white), ![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?logo=webstorm&logoColor=white)
+- **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
+- **Other Tools:**  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white), ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?logo=android-studio&logoColor=white)
 - **Languages:** 
   - ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
   - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-  - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-  - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
   - ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 
-### What I’m Working On:
-- 📱 Developing apps with Flutter for personal and professional use.
-- 📊 Building robust backends with Node.js and MongoDB.
-
-### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdilMulimani&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdilMulimani&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Get in Touch!
-- 📫 Reach me at: [adilmulimani@gmail.com](mailto:adilmulimani@gmail.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/adil-m-21736626a/)
+- Reach me at: [adilmulimani@gmail.com](mailto:adilmulimani@gmail.com)
+-  Connect with me on [LinkedIn](https://www.linkedin.com/in/adil-m-21736626a/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AdilMulimani&color=blue)
   
